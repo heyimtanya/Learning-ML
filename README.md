@@ -1,12 +1,11 @@
-# Learning ML
+# Learning-ML
 
-This repository contains my hands-on learning and experiments in machine learning.
+This repository contains my hands-on work and experiments while learning machine learning.
 
-## Day 1 – NumPy Foundations
-In this notebook I worked with:
-- NumPy arrays and matrices
-- Feature-wise mean and standard deviation
-- Data normalization
-- Matrix multiplication used in ML models
+It includes:
+- Data processing and feature engineering
+- Numerical computing with NumPy
+- Working with real-world datasets
+- Machine learning model experiments
 
-These are the building blocks of machine learning systems.
+Each notebook in this repository focuses on a specific concept or task commonly used in real ML systems.
